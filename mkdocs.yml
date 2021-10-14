@@ -1,0 +1,11 @@
+site_name: ConnectMeVoice Help Guide
+site_url: https://ConnectMeVoice.com/
+nav:
+    - Chapter 1 Introduction: index.md
+    - Chapter 2 Administration: Administration.md
+    - Chapter 3 Messages: Messages.md
+
+theme: 
+    name: material
+    palette:
+        primary: green
