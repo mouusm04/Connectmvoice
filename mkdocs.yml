@@ -4,6 +4,9 @@ nav:
     - Chapter 1 Introduction: index.md
     - Chapter 2 Administration: Administration.md
     - Chapter 3 Messages: Messages.md
+    - Chapter 4 Features: Features.md
+    - Chapter 5 Settings: Settings.md
+    
 
 theme: 
     name: material

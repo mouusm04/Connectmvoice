@@ -80,8 +80,7 @@ Text allows you to send and receive text messages with your friends and acquaint
 ### Managing Your Text
 #### Messages
 
-
-.............................
+The message section in the user portal allows you to send text messages.
 
 #### Send
 
@@ -111,7 +110,7 @@ To view the list of all available contacts, navigate to **Messages > Text > Cont
 
 1. Click on the **+Add New** button on the top left corner. A new window will appear.
 
-![Image](../image/Add_contact.jpg)
+    ![Image](../image/Add_contact.jpg)
 
 2. Enter the required information in the following field:
     - First Name: enter the first name
